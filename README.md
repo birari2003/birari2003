@@ -94,8 +94,7 @@ Full-Stack Software Developer with **1.5+ years** of experience architecting sca
 ---
 
 ### 2️⃣ [Periodic Point](https://github.com/birari2003/Periodic-Point)
-**Tech Stack:** MongoDB, Express, React, Node.js  
-**[Live Demo](https://periodicpoint.netlify.app/)**
+**Tech Stack:** MongoDB, Express, React, Node.js  **[Live Demo](https://periodicpoint.netlify.app/)**
 
 - 🎮 Interactive periodic table learning with gamification
 - 🧪 Quiz system and multiple learning games
