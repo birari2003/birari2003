@@ -140,6 +140,7 @@ Full-Stack Software Developer with **1.5+ years** of experience architecting sca
 - 💊 Automated remedy suggestions for detected diseases
 - 🤖 AI chatbot for plant care assistance
 
+
 ---
 
 ### 7️⃣ [Smart Farmer (AgroConnect)](https://github.com/birari2003/KissanConnect-Frontend)
