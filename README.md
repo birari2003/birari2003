@@ -125,10 +125,9 @@ Full-Stack Software Developer with **1.5+ years** of experience architecting sca
 ### 5️⃣ [Virtual Try-On](https://github.com/birari2003/virtual-tryon-Github/tree/main/navaApproch/)
 **Tech Stack:** Python, ML, TensorFlow, OpenCV
 
-- 👔 Virtual clothing try-on using computer vision
+- 👔 Virtual clothing try-on using computer vision and ML libraries.
 - 🪞 Real-time mirror visualization of outfits
 - 🎯 Accurate body detection and garment overlay
-- 🎯 Customer Satisfaction
 
 ---
 
