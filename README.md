@@ -121,7 +121,7 @@ Full-Stack Software Developer with **1.5+ years** of experience architecting sca
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top", margin-top="5px">
 
 ### 5️⃣ [Virtual Try-On](https://github.com/birari2003/virtual-tryon-Github/tree/main/navaApproch/)
 **Tech Stack:** Python, ML, TensorFlow, OpenCV
