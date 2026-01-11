@@ -88,7 +88,7 @@ Full-Stack Software Developer with **1.5+ years** of experience architecting sca
 **Tech Stack:** React, Python, ML, TensorFlow, WebSocket
 
 - 🤖 Real-time sign language translation with **92% gesture recognition accuracy**
-- ♿ Accessible learning platform for deaf and mute community
+- ♿ Accessible learning platform for deaf and mutes.
 - 🎯 AI-powered educational tools with interactive features
 
 ---
