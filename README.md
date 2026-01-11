@@ -63,7 +63,6 @@ Full-Stack Software Developer with **1.5+ years** of experience architecting sca
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
@@ -83,7 +82,7 @@ Full-Stack Software Developer with **1.5+ years** of experience architecting sca
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 1️⃣ [Sarthak - AI E-Learning Platform](https://github.com/SanketGadhe/Sarthak)
 **Tech Stack:** React, Python, ML, TensorFlow, WebSocket
@@ -121,7 +120,8 @@ Full-Stack Software Developer with **1.5+ years** of experience architecting sca
 - 🔐 JWT authentication with comprehensive security features
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 5️⃣ [Virtual Try-On](https://github.com/birari2003/virtual-tryon-Github/tree/main/navaApproch/)
 **Tech Stack:** Python, ML, TensorFlow, OpenCV
@@ -160,6 +160,7 @@ Full-Stack Software Developer with **1.5+ years** of experience architecting sca
 </td>
 </tr>
 </table>
+
 
 ---
 
